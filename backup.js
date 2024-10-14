@@ -6,7 +6,7 @@ const client = new ComprehendClient({ region: "us-east-1" });
 const readSentiments = async() => {
     try {
         // Read the content of the text file asynchronously
-        const text = await fs.readFile('./sample/bad.txt', 'utf8');
+        const text = await fs.readFile('./sample/negative.txt', 'utf8');
 
         const params = {
             Text: text,

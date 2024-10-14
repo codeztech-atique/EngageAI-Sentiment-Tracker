@@ -88,7 +88,9 @@ function aggregateResults(results) {
 const readSentiments = async() => {
     try {
         // Read the content of the text file asynchronously
-        const text = await fs.readFile('./sample/bad.txt', 'utf8');
+        const text = await fs.readFile('./sample/negative.txt', 'utf8');
+
+        console.log("Please wait...")
 
         // Split the text into manageable chunks
         const chunks = splitText(text, 4900); // slightly below 5000 to ensure under limit

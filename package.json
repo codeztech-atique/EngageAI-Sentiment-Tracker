@@ -1,0 +1,14 @@
+{
+  "name": "engageai-sentiment-tracker",
+  "version": "1.0.0",
+  "description": "This repositary is all about EngageAI Sentiment Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atique Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-comprehend": "^3.670.0"
+  }
+}

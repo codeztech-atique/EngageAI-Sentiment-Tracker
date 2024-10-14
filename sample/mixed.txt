@@ -1,0 +1,10 @@
+Dear Customer,
+
+Despite repeated attempts to facilitate the upgrade of the Zoom Meeting SDK from version 2.18.2 to 3.1.6, there has been a concerning lack of engagement from your side. This has not only stalled the upgrade process but also compromised the efficiency of our service delivery.
+
+I must emphasize that this disregard for timely communication jeopardizes not only the success of the current upgrade but also future support. It is imperative that we receive your immediate cooperation to rectify this situation.
+
+If we do not receive a response by the end of the day, we will be forced to close the ticket and consider this matter unresolved. Reopening the ticket in the future would necessitate starting the entire process anew, which could lead to further delays and complications.
+
+Please treat this matter with the seriousness it deserves.
+

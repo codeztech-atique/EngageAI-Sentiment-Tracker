@@ -88,7 +88,7 @@ function aggregateResults(results) {
 const readSentiments = async() => {
     try {
         // Read the content of the text file asynchronously
-        const text = await fs.readFile('./sample/negative.txt', 'utf8');
+        const text = await fs.readFile('./sample/mixed.txt', 'utf8');
 
         console.log("Please wait...")
 
